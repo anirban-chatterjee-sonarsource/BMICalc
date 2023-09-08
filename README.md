@@ -1,2 +1,2 @@
 # BMICalc
-BMI Calculator
+BMI Calculator - Java
